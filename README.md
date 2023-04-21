@@ -7,11 +7,11 @@ Example:
 
 The following is the original image
 
-<div align=center><img src="original data\8.jpg" alt="8" width="25%" height="25%"/ /></div>
+<div align=center><img src="original-data\8.jpg" alt="8" width="25%" height="25%"/ /></div>
 
 We can set the parameters in the ImageDataGenerator: rotation, displacement, zoom, etc, to randomly generate new images; if we put the generated number as 9, we can develop nine new images.
 
-<div align=center><img src="original data\image-20230422004025218.png" alt="image-20230422004025218" width="70%" height="70%" /></div>
+<div align=center><img src="original-data\image-20230422004025218.png" alt="image-20230422004025218" width="70%" height="70%" /></div>
 
 ```
 About ImageDataGenerator
